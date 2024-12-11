@@ -1,0 +1,62 @@
+.header{
+    display: flex;
+    border-bottom: 1px solid black;
+}
+
+.government{
+    padding:10px;
+    margin:20px;
+}
+
+.side{
+    display: flex;
+    align-items: end;
+    justify-items: end ;
+}
+
+.secondline{
+    display:flex;
+    margin: 10px;
+    padding: 10px;
+}
+.link1{
+    background-color: purple;
+}
+.link{
+    background-color: purple;
+    color:white;
+    text-decoration: none;
+    border: none;
+    height:40px;
+}
+.link:hover{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+.message{
+    height:200px;
+    background-color: yellow;
+    display:flex;
+    
+}
+.first1{
+    background-color:white;
+    height:200px;
+    width: 33%;
+    border: 1px solid black;
+    padding: 10px;
+}
+.vision{
+    padding-left:80px;
+    font-size: 200%;
+}
+.image{
+    height: 50px;
+    margin-top: 10px;
+    margin-right:40px;
+}
+.first-message{
+    font-size: 150%;
+}
